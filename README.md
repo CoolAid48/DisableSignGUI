@@ -5,4 +5,4 @@ This mod allows you to toggle the sign text interface off and on! This is especi
 - Also works with Hanging Signs!
 - Toggle Keybind is `G` by default
   
-Inspired by Masonion's NoSignGUI mod, which you should use for versions <1.21.4
+Inspired by [Masonion's NoSignGUI](https://modrinth.com/mod/nosigngui) mod, which you should use for versions <1.21.4
