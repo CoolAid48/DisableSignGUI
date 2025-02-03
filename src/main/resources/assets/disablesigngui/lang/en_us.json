@@ -1,0 +1,6 @@
+{
+  "category.disablesigngui": "DisableSignGUI",
+  "key.disablesigngui.toggle": "Toggle DisableSignGUI",
+  "message.toggleGuiKey.disabled": "DisableSignGUI OFF",
+  "message.toggleGuiKey.enabled": "DisableSignGUI ON"
+}

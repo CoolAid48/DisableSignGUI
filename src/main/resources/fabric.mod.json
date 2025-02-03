@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "disablesigngui",
+	"version": "${version}",
+	"name": "CoolAid's DisableSignGUI",
+	"description": "Allows you to toggle the sign text interface off and on!",
+	"authors": [
+		"CoolAid48"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/disablesigngui-coolaid",
+		"sources": "https://github.com/CoolAid48/DisableSignGUI"
+	},
+	"license": "MIT",
+	"icon": "assets/disablesigngui/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"coolaid.disablesigngui.DisableSigngui"
+		]
+	},
+	"mixins": [
+		"disablesigngui.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
