@@ -2,13 +2,13 @@
 	"schemaVersion": 1,
 	"id": "disablesigngui",
 	"version": "${version}",
-	"name": "CoolAid's DisableSignGUI",
+	"name": "DisableSignGUI",
 	"description": "Allows you to toggle the sign text interface off and on!",
 	"authors": [
 		"CoolAid48"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/disablesigngui-coolaid",
+		"homepage": "https://coolaid.live/",
 		"sources": "https://github.com/CoolAid48/DisableSignGUI"
 	},
 	"license": "MIT",
