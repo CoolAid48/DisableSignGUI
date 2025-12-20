@@ -1,159 +1,177 @@
-[20:08:11] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.9 with Fabric Loader 0.17.3
-[20:08:11] [main/WARN] (FabricLoader/Knot) Ignoring invalid library path C:\Progra~1\Java\<graalvm>\bin
-[20:08:11] [main/INFO] (FabricLoader) Loading 51 mods:
-	- disablesigngui 1.0.0
-	- fabric-api 0.134.0+1.21.9
-	- fabric-api-base 1.0.0+14b92d897d
-	- fabric-api-lookup-api-v1 1.6.106+d17682157d
-	- fabric-biome-api-v1 16.1.0+c2417d4f7d
-	- fabric-block-api-v1 1.1.5+d17682157d
-	- fabric-block-view-api-v2 1.0.34+e4fd1b927d
-	- fabric-client-gametest-api-v1 4.2.13+14b92d897d
-	- fabric-command-api-v2 2.3.7+328a75ba7d
-	- fabric-content-registries-v0 10.2.3+b6a242647d
-	- fabric-convention-tags-v1 2.1.47+7f945d5b7d
-	- fabric-convention-tags-v2 2.15.12+3154c1c87d
-	- fabric-crash-report-info-v1 0.3.18+33df5e6e7d
-	- fabric-data-attachment-api-v1 1.8.28+9bce411b7d
-	- fabric-data-generation-api-v1 23.2.22+d8b85ef17d
-	- fabric-dimensions-v1 4.0.22+38b9cc197d
-	- fabric-entity-events-v1 2.1.12+14b92d897d
-	- fabric-events-interaction-v0 4.0.35+5ba217127d
-	- fabric-game-rule-api-v1 1.1.1+e47eaae57d
-	- fabric-gametest-api-v1 3.1.18+33df5e6e7d
-	- fabric-item-api-v1 11.5.8+9bce411b7d
-	- fabric-item-group-api-v1 4.2.24+86b3ae577d
-	- fabric-key-binding-api-v1 1.1.1+b3ba9c487d
-	- fabric-lifecycle-events-v1 2.6.9+33df5e6e7d
-	- fabric-loot-api-v2 3.0.64+3f89f5a57d
-	- fabric-loot-api-v3 2.0.11+d17682157d
-	- fabric-message-api-v1 6.1.7+3154c1c87d
-	- fabric-model-loading-api-v1 6.0.0+3ffd6ef07d
-	- fabric-networking-api-v1 5.0.13+d269470c7d
-	- fabric-object-builder-api-v1 21.1.24+9bce411b7d
-	- fabric-particles-v1 4.2.2+a0ee59a47d
-	- fabric-recipe-api-v1 8.1.26+d17682157d
-	- fabric-registry-sync-v0 6.1.41+679c8c5c7d
-	- fabric-renderer-api-v1 7.1.1+328a75ba7d
-	- fabric-renderer-indigo 4.0.19+328a75ba7d
-	- fabric-rendering-fluids-v1 3.1.38+86b3ae577d
-	- fabric-rendering-v1 16.0.1+328a75ba7d
-	- fabric-resource-conditions-api-v1 5.0.28+33df5e6e7d
-	- fabric-resource-loader-v0 3.2.2+3388a3b27d
-	- fabric-resource-loader-v1 1.0.2+225bca407d
-	- fabric-screen-api-v1 3.1.0+9c82a7987d
-	- fabric-screen-handler-api-v1 1.3.150+d17682157d
-	- fabric-serialization-api-v1 1.0.0+d857c9767d
-	- fabric-sound-api-v1 1.0.45+328a75ba7d
-	- fabric-tag-api-v1 1.2.10+2fa446b27d
-	- fabric-transfer-api-v1 6.0.15+79ec2c127d
-	- fabric-transitive-access-wideners-v1 6.5.3+41eb43437d
-	- fabricloader 0.17.3
+[21:26:34] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.11 with Fabric Loader 0.18.0
+[21:26:34] [main/WARN] (FabricLoader/Knot) Ignoring invalid library path C:\Progra~1\Java\<graalvm>\bin
+[21:26:35] [main/INFO] (FabricLoader) Loading 51 mods:
+	- disablesigngui 1.1.0
+	- fabric-api 0.140.0+1.21.11
+	- fabric-api-base 1.0.5+4ebb5c083e
+	- fabric-api-lookup-api-v1 1.6.113+1fb1cde93e
+	- fabric-biome-api-v1 17.1.1+4fc5413f3e
+	- fabric-block-api-v1 1.1.10+4ebb5c083e
+	- fabric-block-view-api-v2 1.0.39+4ebb5c083e
+	- fabric-client-gametest-api-v1 4.3.5+bfe9fcf43e
+	- fabric-command-api-v2 2.4.7+6b42a6003e
+	- fabric-content-registries-v0 10.2.14+4fc5413f3e
+	- fabric-convention-tags-v1 2.1.55+7f945d5b3e
+	- fabric-convention-tags-v2 2.17.3+8ef948ba3e
+	- fabric-crash-report-info-v1 0.3.23+4ebb5c083e
+	- fabric-data-attachment-api-v1 1.8.43+1fb1cde93e
+	- fabric-data-generation-api-v1 23.3.0+ae1056283e
+	- fabric-dimensions-v1 4.0.28+4fc5413f3e
+	- fabric-entity-events-v1 3.0.5+4ebb5c083e
+	- fabric-events-interaction-v0 4.0.44+1fb1cde93e
+	- fabric-game-rule-api-v1 2.0.3+4fc5413f3e
+	- fabric-gametest-api-v1 3.1.27+4fc5413f3e
+	- fabric-item-api-v1 11.5.20+d0c46b9e3e
+	- fabric-item-group-api-v1 4.2.36+4fc5413f3e
+	- fabric-key-binding-api-v1 1.1.7+4fc5413f3e
+	- fabric-lifecycle-events-v1 2.6.15+4ebb5c083e
+	- fabric-loot-api-v2 3.0.73+3f89f5a53e
+	- fabric-loot-api-v3 2.0.20+78c8b4663e
+	- fabric-message-api-v1 6.1.12+4ebb5c083e
+	- fabric-model-loading-api-v1 6.0.12+4fc5413f3e
+	- fabric-networking-api-v1 5.1.5+ae1e07683e
+	- fabric-object-builder-api-v1 21.1.38+4fc5413f3e
+	- fabric-particles-v1 4.2.11+4fc5413f3e
+	- fabric-recipe-api-v1 8.2.3+4ebb5c083e
+	- fabric-registry-sync-v0 6.2.4+4ebb5c083e
+	- fabric-renderer-api-v1 8.0.0+f4ffd2e53e
+	- fabric-renderer-indigo 5.0.0+f4ffd2e53e
+	- fabric-rendering-fluids-v1 3.1.43+4ebb5c083e
+	- fabric-rendering-v1 16.2.7+f4ffd2e53e
+	- fabric-resource-conditions-api-v1 5.0.35+4fc5413f3e
+	- fabric-resource-loader-v0 3.3.4+4fc5413f3e
+	- fabric-resource-loader-v1 1.0.10+78c8b4663e
+	- fabric-screen-api-v1 3.1.7+4ebb5c083e
+	- fabric-screen-handler-api-v1 1.3.160+4fc5413f3e
+	- fabric-serialization-api-v1 1.0.5+4ebb5c083e
+	- fabric-sound-api-v1 1.0.51+4fc5413f3e
+	- fabric-tag-api-v1 1.2.20+4fc5413f3e
+	- fabric-transfer-api-v1 6.0.24+4fc5413f3e
+	- fabric-transitive-access-wideners-v1 7.0.8+0107c3da3e
+	- fabricloader 0.18.0
 	- java 22
-	- minecraft 1.21.9
+	- minecraft 1.21.11
 	- mixinextras 0.5.0
-[20:08:11] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/CoolAid/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[20:08:11] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[20:08:11] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[20:08:12] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[20:08:12] [Datafixer Bootstrap/INFO] (Minecraft) 278 Datafixer optimizations took 305 milliseconds
-[20:08:15] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:08:15] [Render thread/INFO] (Minecraft) Setting user: Player943
-[20:08:15] [Render thread/INFO] (disablesigngui) The sign is NOT GUI-ing... Check out my Hardcore World on Twitch!
-[20:08:15] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[20:08:15] [Download-2/ERROR] (Minecraft) Failed to fetch user properties
+[21:26:35] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/CoolAid/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[21:26:35] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[21:26:35] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[21:26:36] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:26:36] [Datafixer Bootstrap/INFO] (Minecraft) 287 Datafixer optimizations took 342 milliseconds
+[21:26:39] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:26:39] [Render thread/INFO] (Minecraft) Setting user: Player737
+[21:26:39] [Render thread/INFO] (disablesigngui) The sign is NOT GUI-ing... Check out my Hardcore World on Twitch!
+[21:26:40] [Download-2/ERROR] (Minecraft) Failed to fetch user properties
 com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
-	at knot/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:59) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:150) ~[authlib-7.0.61.jar:?]
-	at knot/net.minecraft.client.MinecraftClient.method_55608(MinecraftClient.java:465) ~[minecraft-merged-42d054c137-1.21.9-net.fabricmc.yarn.1_21_9.1.21.9+build.1-v2.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+	at knot//com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:59)
+	at knot//com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:150)
+	at knot//net.minecraft.client.MinecraftClient.method_55608(MinecraftClient.java:457)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
 Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-7.0.61.jar:?]
-	at knot/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:121) ~[authlib-7.0.61.jar:?]
+	at knot//com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103)
+	at knot//com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at knot//com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:121)
 	... 5 more
-[20:08:16] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
-[20:08:16] [Render thread/INFO] (Minecraft) Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
-[20:08:16] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, disablesigngui, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-client-gametest-api-v1, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader
-[20:08:16] [Download-2/INFO] (Minecraft) Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: FabricMC
-[20:08:16] [Download-2/ERROR] (Minecraft) Failed to fetch Realms feature flags
+[21:26:40] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[21:26:40] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[21:26:40] [Render thread/INFO] (Minecraft) Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access, GL_EXT_texture_filter_anisotropic
+[21:26:40] [Render thread/WARN] (Minecraft) Removed resource pack fabric from options because it doesn't seem to exist anymore
+[21:26:41] [Download-2/INFO] (Minecraft) Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: FabricMC
+[21:26:41] [Download-2/ERROR] (Minecraft) Failed to fetch Realms feature flags
 net.minecraft.client.realms.exception.RealmsServiceException: Realms authentication error with message 'java.lang.RuntimeException: Failed to parse into SignedJWT: FabricMC'
-	at knot/net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:536) ~[minecraft-merged-42d054c137-1.21.9-net.fabricmc.yarn.1_21_9.1.21.9+build.1-v2.jar:?]
-	at knot/net.minecraft.client.realms.RealmsClient.fetchFeatureFlags(RealmsClient.java:189) ~[minecraft-merged-42d054c137-1.21.9-net.fabricmc.yarn.1_21_9.1.21.9+build.1-v2.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
-[20:08:17] [Worker-Main-7/INFO] (Minecraft) Found unifont_pua-16.0.03.hex, loading
-[20:08:17] [Worker-Main-20/INFO] (Minecraft) Found unifont_all_no_pua-16.0.03.hex, loading
-[20:08:17] [Worker-Main-5/INFO] (Minecraft) Found unifont_jp_patch-16.0.03.hex, loading
-[20:08:17] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on System (3- TC-HELICON GoXLR)
-[20:08:17] [Render thread/INFO] (Minecraft) Sound engine started
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/chest.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
-[20:08:17] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
-[20:08:17] [IO-Worker-1/INFO] (Minecraft) Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: FabricMC
-[20:08:17] [IO-Worker-1/ERROR] (Minecraft) Couldn't connect to realms
+	at knot//net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:526)
+	at knot//net.minecraft.client.realms.RealmsClient.fetchFeatureFlags(RealmsClient.java:186)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+[21:26:41] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, disablesigngui, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-client-gametest-api-v1, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader
+[21:26:41] [Worker-Main-21/INFO] (Minecraft) Found unifont_jp_patch-17.0.01.hex, loading
+[21:26:41] [Worker-Main-18/INFO] (Minecraft) Found unifont_pua-17.0.01.hex, loading
+[21:26:41] [Worker-Main-4/INFO] (Minecraft) Found unifont_all_no_pua-17.0.01.hex, loading
+[21:26:42] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on System (3- TC-HELICON GoXLR)
+[21:26:42] [Render thread/INFO] (Minecraft) Sound engine started
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/chest.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/celestials.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/beds.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/items.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 128x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/signs.png-atlas
+[21:26:42] [Render thread/INFO] (Minecraft) Created: 512x512x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:26:42] [IO-Worker-1/INFO] (Minecraft) Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: FabricMC
+[21:26:42] [IO-Worker-1/ERROR] (Minecraft) Couldn't connect to realms
 net.minecraft.client.realms.exception.RealmsServiceException: Realms authentication error with message 'java.lang.RuntimeException: Failed to parse into SignedJWT: FabricMC'
-	at knot/net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:536) ~[minecraft-merged-42d054c137-1.21.9-net.fabricmc.yarn.1_21_9.1.21.9+build.1-v2.jar:?]
-	at knot/net.minecraft.client.realms.RealmsClient.clientCompatible(RealmsClient.java:316) ~[minecraft-merged-42d054c137-1.21.9-net.fabricmc.yarn.1_21_9.1.21.9+build.1-v2.jar:?]
-	at knot/net.minecraft.client.realms.RealmsAvailability.method_52627(RealmsAvailability.java:49) ~[minecraft-merged-42d054c137-1.21.9-net.fabricmc.yarn.1_21_9.1.21.9+build.1-v2.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
-[20:08:22] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
-[20:08:22] [Render thread/INFO] (Minecraft) Loaded 1461 recipes
-[20:08:22] [Render thread/INFO] (Minecraft) Loaded 1574 advancements
-[20:08:22] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 65 new biomes in 772.3 μs
-[20:08:22] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.9
-[20:08:22] [Server thread/INFO] (Minecraft) Generating keypair
-[20:08:23] [Server thread/INFO] (Minecraft) Loading 0 persistent chunks...
-[20:08:23] [Server thread/INFO] (Minecraft) Loading 49 chunks for player spawn...
-[20:08:23] [Server thread/INFO] (Minecraft) Preparing spawn area: 16%
-[20:08:23] [Server thread/INFO] (Minecraft) Preparing spawn area: 16%
-[20:08:24] [Server thread/INFO] (Minecraft) Time elapsed: 770 ms
-[20:08:24] [Server thread/INFO] (Minecraft) Player943[local:E:14e48c87] logged in with entity id 84 at (-7.779215497208177, 65.0, -12.378869829883854)
-[20:08:24] [Server thread/INFO] (Minecraft) Player943 joined the game
-[20:08:24] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[20:08:24] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[20:08:24] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
-[20:08:24] [Render thread/INFO] (Minecraft) Loaded 2 advancements
-[20:08:24] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
-[20:08:24] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
-[20:08:24] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 32 reached during a single frame. New capacity will be 64.
-[20:08:24] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 64 reached during a single frame. New capacity will be 128.
-[20:08:24] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 128 reached during a single frame. New capacity will be 256.
-[20:08:24] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
-[20:11:49] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 512 reached during a single frame. New capacity will be 1024.
-[20:11:49] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[20:11:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[20:11:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[20:11:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[20:11:50] [Server thread/INFO] (Minecraft) Player943 lost connection: Disconnected
-[20:11:50] [Server thread/INFO] (Minecraft) Player943 left the game
-[20:11:50] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
-[20:11:50] [Server thread/INFO] (Minecraft) Stopping server
-[20:11:50] [Server thread/INFO] (Minecraft) Saving players
-[20:11:50] [Server thread/INFO] (Minecraft) Saving worlds
-[20:11:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[20:11:51] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[20:11:51] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[20:11:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World): All chunks are saved
-[20:11:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:11:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:11:51] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
-[20:11:52] [Render thread/INFO] (Minecraft) Stopping!
+	at knot//net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:526)
+	at knot//net.minecraft.client.realms.RealmsClient.clientCompatible(RealmsClient.java:307)
+	at knot//net.minecraft.client.realms.RealmsAvailability.method_52627(RealmsAvailability.java:48)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+[21:26:45] [Render thread/WARN] (Minecraft) Missing data pack fabric
+[21:26:46] [Render thread/INFO] (Minecraft) Loaded 1470 recipes
+[21:26:46] [Render thread/INFO] (Minecraft) Loaded 1584 advancements
+[21:26:46] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 65 new biomes in 844.4 μs
+[21:26:46] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.11
+[21:26:46] [Server thread/INFO] (Minecraft) Generating keypair
+[21:26:47] [Server thread/INFO] (Minecraft) Loading 0 persistent chunks...
+[21:26:47] [Server thread/INFO] (Minecraft) Preparing spawn area: 16%
+[21:26:47] [Server thread/INFO] (Minecraft) Loading 49 chunks for player spawn...
+[21:26:47] [Server thread/INFO] (Minecraft) Preparing spawn area: 16%
+[21:26:47] [Server thread/INFO] (Minecraft) Time elapsed: 913 ms
+[21:26:48] [Server thread/INFO] (Minecraft) Player737[local:E:a021ff86] logged in with entity id 68 at (-7.779215497208177, 65.0, -12.378869829883854)
+[21:26:48] [Server thread/INFO] (Minecraft) Player737 joined the game
+[21:26:48] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[21:26:48] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[21:26:48] [Render thread/INFO] (Minecraft) Loaded 2 advancements
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 32 reached during a single frame. New capacity will be 64.
+[21:26:48] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 64 reached during a single frame. New capacity will be 128.
+[21:26:49] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 128 reached during a single frame. New capacity will be 256.
+[21:26:49] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[21:26:50] [Render thread/INFO] (Minecraft) Resizing Chunk Sections UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
+[21:26:58] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[21:26:58] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:26:58] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:26:58] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:27:22] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[21:27:22] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:27:22] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:27:22] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:28:16] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[21:28:16] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:28:16] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:28:16] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:28:26] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[21:28:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:28:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:28:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:28:27] [Server thread/INFO] (Minecraft) Player737 lost connection: Disconnected
+[21:28:27] [Server thread/INFO] (Minecraft) Player737 left the game
+[21:28:27] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[21:28:27] [Server thread/INFO] (Minecraft) Stopping server
+[21:28:27] [Server thread/INFO] (Minecraft) Saving players
+[21:28:27] [Server thread/INFO] (Minecraft) Saving worlds
+[21:28:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:28:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:28:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:28:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World): All chunks are saved
+[21:28:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:28:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:28:27] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[21:28:28] [Render thread/INFO] (Minecraft) Stopping!
