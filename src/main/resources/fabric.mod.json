@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "disablesigngui",
-  "version": "1.1.0",
-  "name": "DisableSignGUI",
+  "version": "1.2.0",
+  "name": "NoSignGUI",
   "description": "Allows you to toggle the sign text interface off and on!",
   "authors": [
     "CoolAid48"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/disablesigngui",
+    "homepage": "https://coolaid.live/",
     "issues": "https://github.com/CoolAid48/DisableSignGUI/issues",
     "sources": "https://github.com/CoolAid48/DisableSignGUI"
   },
@@ -27,5 +27,13 @@
     "fabricloader": ">=0.18.0",
     "fabric": "*",
     "minecraft": "~1.21.11"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/J2SGshKNah",
+        "modmenu.modrinth": "https://modrinth.com/mod/disablesigngui"
+      }
+    }
   }
 }

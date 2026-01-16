@@ -1,6 +1,6 @@
 {
-  "key.category.minecraft.disablesigngui": "DisableSignGUI",
-  "key.disablesigngui.toggle": "Toggle DisableSignGUI",
-  "message.toggleGuiKey.disabled": "DisableSignGUI OFF",
-  "message.toggleGuiKey.enabled": "DisableSignGUI ON"
+  "key.category.minecraft.disablesigngui": "NoSignGUI",
+  "key.disablesigngui.toggle": "Toggle NoSignGUI",
+  "message.toggleGuiKey.disabled": "NoSignGUI OFF",
+  "message.toggleGuiKey.enabled": "NoSignGUI ON"
 }
