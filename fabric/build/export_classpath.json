@@ -1,0 +1,18 @@
+{
+  "projectPath": ":fabric",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\build\\classes\\java\\test",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\build\\resources\\test",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\out\\test\\classes",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\out\\test\\resources"
+    ],
+    "main": [
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\build\\classes\\java\\main",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\build\\resources\\main",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\build\\devlibs\\disablesigngui-fabric-2.0.0-dev.jar",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\out\\production\\classes",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\fabric\\out\\production\\resources"
+    ]
+  }
+}

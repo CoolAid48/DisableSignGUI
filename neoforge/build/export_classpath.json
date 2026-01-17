@@ -1,0 +1,18 @@
+{
+  "projectPath": ":neoforge",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\build\\classes\\java\\test",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\build\\resources\\test",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\out\\test\\classes",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\out\\test\\resources"
+    ],
+    "main": [
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\build\\classes\\java\\main",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\build\\resources\\main",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\build\\devlibs\\disablesigngui-neoforge-2.0.0-dev.jar",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\out\\production\\classes",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\neoforge\\out\\production\\resources"
+    ]
+  }
+}

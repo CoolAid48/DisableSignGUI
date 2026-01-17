@@ -1,0 +1,18 @@
+{
+  "projectPath": ":common",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\build\\classes\\java\\test",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\build\\resources\\test",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\out\\test\\classes",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\out\\test\\resources"
+    ],
+    "main": [
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\build\\classes\\java\\main",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\build\\resources\\main",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\build\\devlibs\\disablesigngui-common-2.0.0-dev.jar",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\out\\production\\classes",
+      "C:\\Users\\CoolAid\\Desktop\\disablesigngui-multiloader\\common\\out\\production\\resources"
+    ]
+  }
+}
