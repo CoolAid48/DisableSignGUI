@@ -1,10 +1,10 @@
 package coolaid.disablesigngui.neoforge;
 
+import com.mojang.blaze3d.platform.InputConstants;
 import coolaid.disablesigngui.DisableSignGUI;
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.KeyMapping;
 import net.minecraft.network.chat.Component;
-import net.minecraft.resources.Identifier;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
@@ -16,9 +16,6 @@ import org.lwjgl.glfw.GLFW;
 @Mod(DisableSignGUINeoForge.MOD_ID)
 public class DisableSignGUINeoForge {
     public static final String MOD_ID = "disablesigngui";
-
-    private static final KeyMapping.Category DISABLE_CATEGORY =
-            KeyMapping.Category.register(Identifier.parse("disablesigngui"));
 
     public static KeyMapping toggleGuiKey;
 
@@ -36,8 +33,9 @@ public class DisableSignGUINeoForge {
     private void onRegisterKeyMappings(RegisterKeyMappingsEvent event) {
         toggleGuiKey = new KeyMapping(
                 "key.disablesigngui.toggle",
+                InputConstants.Type.KEYSYM,
                 GLFW.GLFW_KEY_G,
-                DISABLE_CATEGORY
+                "category.disablesigngui"
         );
         event.register(toggleGuiKey);
     }

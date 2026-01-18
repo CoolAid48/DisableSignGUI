@@ -7,15 +7,11 @@ import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.KeyMapping;
 import net.minecraft.network.chat.Component;
-import net.minecraft.resources.Identifier;
 import org.lwjgl.glfw.GLFW;
 
 import static coolaid.disablesigngui.DisableSignGUI.isSignGuiEnabled;
 
 public final class DisableSignGUIFabric implements ModInitializer {
-
-    private static final KeyMapping.Category DISABLE_CATEGORY =
-            KeyMapping.Category.register(Identifier.parse("disablesigngui"));
 
     public static KeyMapping toggleGuiKey;
 
@@ -30,7 +26,7 @@ public final class DisableSignGUIFabric implements ModInitializer {
                 "key.disablesigngui.toggle",
                 InputConstants.Type.KEYSYM,
                 GLFW.GLFW_KEY_G,
-                DISABLE_CATEGORY
+                "category.disablesigngui"
         ));
 
         // KEYPRESS LISTENER LOGIC
