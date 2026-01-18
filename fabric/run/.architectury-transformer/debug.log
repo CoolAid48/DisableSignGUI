@@ -114,23 +114,19 @@
 [Architectury Transformer DEBUG]  - C:\Users\CoolAid\Desktop\disablesigngui-multiloader\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-serialization-api-v1-765234bd\1.0.5+4ebb5c083e\fabric-serialization-api-v1-765234bd-1.0.5+4ebb5c083e.jar
 [Architectury Transformer DEBUG]  - C:\Users\CoolAid\Desktop\disablesigngui-multiloader\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-sound-api-v1-765234bd\1.0.51+4fc5413f3e\fabric-sound-api-v1-765234bd-1.0.51+4fc5413f3e.jar
 [Architectury Transformer DEBUG]  - C:\Users\CoolAid\Desktop\disablesigngui-multiloader\.gradle\loom-cache\remapped_mods\remapped\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1-765234bd\7.1.0+014c8cec3e\fabric-transitive-access-wideners-v1-765234bd-7.1.0+014c8cec3e.jar
-[Architectury Transformer] Read classpath in 1.066 s
+[Architectury Transformer] Read classpath in 1.054 s
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\16608740072884785671.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@66d1af89
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@8646db9
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@37374a5e
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@4671e53b
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@2db7a79b
-[Architectury Transformer DEBUG] Transforming from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\16608740072884785671.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\18249588638369201311.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@43738a82
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@c81cdd1
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@1fc2b765
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@75881071
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@2a70a3d8
+[Architectury Transformer DEBUG] Transforming from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\18249588638369201311.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing coolaid/disablesigngui/DisableSignGUI with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\AppData\Local\Temp\16608740072884785671.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\AppData\Local\Temp\18249588638369201311.jar
 [Architectury Transformer] Listening at C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\CoolAid\AppData\Local\Temp\16608740072884785671.jar] contains packages: coolaid.disablesigngui
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\CoolAid\AppData\Local\Temp\18249588638369201311.jar] contains packages: coolaid.disablesigngui
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar
 [Architectury Transformer DEBUG] Classpath entry [C:\Users\CoolAid\Desktop\disablesigngui-multiloader\fabric\build\resources\main] contains packages: 
-[Architectury Transformer DEBUG] Transforming from coolaid/disablesigngui/DisableSignGUI.class to coolaid/disablesigngui/DisableSignGUI.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing coolaid/disablesigngui/DisableSignGUI with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed coolaid/disablesigngui/DisableSignGUI in 4.429 ms

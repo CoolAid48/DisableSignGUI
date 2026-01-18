@@ -92,35 +92,35 @@
 [Architectury Transformer DEBUG]  - C:\Users\CoolAid\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-kqueue\4.2.7.Final\40868fd4e43bce2798245f790624b58803dc26b6\netty-transport-native-kqueue-4.2.7.Final-osx-x86_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\CoolAid\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-kqueue\4.2.7.Final\e5a0feef41410c8a5ae00c6cb4e0c99bd0aded6a\netty-transport-native-kqueue-4.2.7.Final-osx-aarch_64.jar
 [Architectury Transformer DEBUG]  - C:\Users\CoolAid\Desktop\disablesigngui-multiloader\.gradle\loom-cache\remapped_mods\remapped\dev\architectury\architectury-neoforge-5a25ebbd\19.0.1\architectury-neoforge-5a25ebbd-19.0.1.jar
-[Architectury Transformer] Read classpath in 1.093 s
+[Architectury Transformer] Read classpath in 1.131 s
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\4544679165046961940.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@262b2c86
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@371a67ec
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@5ed828d
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@50d0686
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@7a3d45bd
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@1e7c7811
-[Architectury Transformer DEBUG] Transforming from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\4544679165046961940.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\1613937532339450075.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@66d1af89
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@8646db9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@37374a5e
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@4671e53b
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@2db7a79b
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@6950e31
+[Architectury Transformer DEBUG] Transforming from C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar to C:\Users\CoolAid\AppData\Local\Temp\1613937532339450075.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000002984202fb20@612fc6eb
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000024c9102f1f8@5891e32e
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing coolaid/disablesigngui/DisableSignGUI with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\AppData\Local\Temp\4544679165046961940.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\AppData\Local\Temp\1613937532339450075.jar
 [Architectury Transformer] Listening at C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\CoolAid\AppData\Local\Temp\4544679165046961940.jar] contains packages: coolaid.disablesigngui
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\CoolAid\AppData\Local\Temp\1613937532339450075.jar] contains packages: coolaid.disablesigngui
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\CoolAid\Desktop\disablesigngui-multiloader\common\build\devlibs\disablesigngui-common-2.0.0-dev.jar
 [Architectury Transformer DEBUG] Classpath entry [C:\Users\CoolAid\Desktop\disablesigngui-multiloader\neoforge\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from coolaid/disablesigngui/DisableSignGUI.class to coolaid/disablesigngui/DisableSignGUI.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000002984202fb20@612fc6eb
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x0000024c9102f1f8@5891e32e
 [Architectury Transformer DEBUG] Remapping with Dirty Mappings...
 [Architectury Transformer DEBUG] Remapping Classes:
 [Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
 [Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing coolaid/disablesigngui/DisableSignGUI with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed coolaid/disablesigngui/DisableSignGUI in 51.52 ms
+[Architectury Transformer DEBUG] Transformed coolaid/disablesigngui/DisableSignGUI in 62.59 ms

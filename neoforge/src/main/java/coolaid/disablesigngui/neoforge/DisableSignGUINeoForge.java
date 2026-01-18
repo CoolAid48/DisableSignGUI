@@ -15,10 +15,10 @@ import org.lwjgl.glfw.GLFW;
 
 @Mod(DisableSignGUINeoForge.MOD_ID)
 public class DisableSignGUINeoForge {
-    public static final String MOD_ID = "assets/disablesigngui";
+    public static final String MOD_ID = "disablesigngui";
 
     private static final KeyMapping.Category DISABLE_CATEGORY =
-            KeyMapping.Category.register(Identifier.parse("assets/disablesigngui"));
+            KeyMapping.Category.register(Identifier.parse("disablesigngui"));
 
     public static KeyMapping toggleGuiKey;
 

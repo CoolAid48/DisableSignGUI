@@ -15,7 +15,7 @@ import static coolaid.disablesigngui.DisableSignGUI.isSignGuiEnabled;
 public final class DisableSignGUIFabric implements ModInitializer {
 
     private static final KeyMapping.Category DISABLE_CATEGORY =
-            KeyMapping.Category.register(Identifier.parse("assets/disablesigngui"));
+            KeyMapping.Category.register(Identifier.parse("disablesigngui"));
 
     public static KeyMapping toggleGuiKey;
 

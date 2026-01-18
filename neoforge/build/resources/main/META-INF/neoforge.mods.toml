@@ -9,30 +9,9 @@ version = "2.0.0"
 displayName = "NoSignGUI"
 authors = "CoolAid48"
 description = '''
-
+Allows you to toggle the sign text interface off and on!
 '''
-#logoFile = ""
-
-[[dependencies.disablesigngui]]
-modId = "neoforge"
-type = "required"
-versionRange = "[21,)"
-ordering = "NONE"
-side = "BOTH"
-
-[[dependencies.disablesigngui]]
-modId = "minecraft"
-type = "required"
-versionRange = "[1.21.11,)"
-ordering = "NONE"
-side = "BOTH"
-
-[[dependencies.disablesigngui]]
-modId = "architectury"
-type = "required"
-versionRange = "[19.0.1,)"
-ordering = "AFTER"
-side = "BOTH"
+logoFile = "assets/disablesigngui/icon.png"
 
 [[mixins]]
 config = "disablesigngui.neoforge.mixins.json"
